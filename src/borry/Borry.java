@@ -5,4 +5,7 @@ public class Borry {
 
 	int j=2;
 
+
+	int s=3;
+
 }
