@@ -8,4 +8,6 @@ public class Borry {
 
 	int s=3;
 
+	int ss=4;
+
 }
